@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>student portal</title>
+</head>
+<body>
+<h1>student information</h1> <br>
+<input type="student name"> <br>
+<input type="student address"> <br>
+<input type="student personal details"> <br>
+</body>
+</html>
